@@ -1,0 +1,11 @@
+#!/bin/bash
+#About this script
+
+IP=`dig +short myip.opendns.com @resolver1.opendns.com`
+echo -e ""
+echo -e "Contact Person : https://www.facebook.com/fauzy.sprssh"
+echo -e "WhatsApp       : 087883575384"
+echo -e "Website        : http://superssh.cf"
+echo -e "Jika ada usul,, Hubungi saya aja gan"
+
+echo -e ""

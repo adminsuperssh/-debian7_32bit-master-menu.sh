@@ -20,5 +20,6 @@ echo -e "11) Cek Kualitas VPS	- bench-network"
 echo -e "12) Cek RAM VPS	- ps-mem"
 echo -e "13) informasi tentang script auto install	- about"
 echo -e "-------------------------------- SuperSSH --------------------------------"
+echo -e "pilih nomer yg ingin anda lakukan"
 
 echo -e ""
